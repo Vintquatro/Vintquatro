@@ -2,6 +2,7 @@
 
 - 🌱 I’m currently learning **JavaScript** and **Angular**.
 - 🔄 I recently changed my professional path to coding after working as a videographer for the last 4 years.
+- 💻 I’m a **Full Stack Developer** currently interning at **Natixis** in Porto.
 - 💻 I have experience with **Java**, **PHP (Laravel)**, **Angular**, **HTML**, and **CSS**.
 - 🔭 I’m looking to collaborate on anything that fits my current learning path or where I can contribute effectively.
 - 🎮 I like to game.
@@ -28,4 +29,3 @@
 ### 🌍 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vintquatro/)
-
