@@ -21,10 +21,11 @@
 - 🥋 I practice Brazilian Jiu Jitsu.
 - 📫 How to reach me: [diogomarpimentel@gmail.com](mailto:diogomarpimentel@gmail.com)
 
-- 👨‍💻 Projects done so far (Live demo):
-  
-https://formacaocesae.pt/Reskilling/2023/SDEV04/TeamD/public/
-https://vintquatro.github.io/Etch-A-Sketch_OdinProject/
-https://vintquatro.github.io/Calculator_OdinProject/
+### 👨‍💻 Projects Done So Far (Live Demo):
+
+- **[Final Project for Software Dev Course](https://formacaocesae.pt/Reskilling/2023/SDEV04/TeamD/public/)**: A comprehensive project showcasing various skills.
+- **[Etch-A-Sketch](https://vintquatro.github.io/Etch-A-Sketch_OdinProject/)**: An interactive Etch-A-Sketch web application.
+- **[Calculator](https://vintquatro.github.io/Calculator_OdinProject/)**: A functional web-based calculator.
+
 
 ![Fun GIF](https://media2.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=6c09b952n616abruldpy2y7us796k7vfuauulkzoadrg3g08&ep=v1_gifs_search&rid=giphy.gif&ct=g)
