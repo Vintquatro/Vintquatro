@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Diogo (aka Vinta)!
 
-![Fun GIF](https://media2.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=6c09b952n616abruldpy2y7us796k7vfuauulkzoadrg3g08&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-
 - 🌱 I’m currently learning **JavaScript** and **Angular**.
 - 🔄 I recently changed my professional path to coding after working as a videographer for the last 4 years.
 - 💻 I’m a **Full Stack Developer** currently interning at **Natixis** in Porto.
@@ -21,28 +19,7 @@
 
 - 💻 I work with both **Windows** and **macOS**.
 - 🔭 I’m looking to collaborate on anything that fits my current learning path or where I can contribute effectively.
-- 🎮 I like to game.
-- 🏍️ I enjoy riding my motorcycle.
 - 🥋 I practice Brazilian Jiu Jitsu.
 - 📫 How to reach me: [diogomarpimentel@gmail.com](mailto:diogomarpimentel@gmail.com)
 
-### 🚀 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vintquatro&show_icons=true&theme=radical)
-
-### 🌟 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vintquatro&layout=compact&theme=radical)
-
-### 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=vintquatro&theme=radical)
-
-### 🌍 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vintquatro/)
-
-
-
-
-
+![Fun GIF](https://media2.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=6c09b952n616abruldpy2y7us796k7vfuauulkzoadrg3g08&ep=v1_gifs_search&rid=giphy.gif&ct=g)
