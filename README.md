@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning **JavaScript** and **Angular**.
 - 🔄 I recently changed my professional path to coding after working as a videographer for the last 4 years.
 - 💻 I’m a **Full Stack Developer** currently interning at **Natixis** in Porto.
-- 💻 I have experience with:
+- 👨‍💻 I have experience with:
 
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
