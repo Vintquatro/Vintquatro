@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Diogo (aka Vinta)!
 
+![Fun GIF](https://media2.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=6c09b952n616abruldpy2y7us796k7vfuauulkzoadrg3g08&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
 - 🌱 I’m currently learning **JavaScript** and **Angular**.
 - 🔄 I recently changed my professional path to coding after working as a videographer for the last 4 years.
 - 💻 I’m a **Full Stack Developer** currently interning at **Natixis** in Porto.
@@ -17,6 +19,7 @@
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
+- 💻 I work with both **Windows** and **macOS**.
 - 🔭 I’m looking to collaborate on anything that fits my current learning path or where I can contribute effectively.
 - 🎮 I like to game.
 - 🏍️ I enjoy riding my motorcycle.
@@ -35,13 +38,11 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=vintquatro&theme=radical)
 
-### 📊 Activity Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vintquatro&theme=radical)
-
 ### 🌍 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vintquatro/)
+
+
 
 
 
