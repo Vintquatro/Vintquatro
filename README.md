@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Diogo (aka Vinta)!
 
-- 🌱 I’m currently learning **JavaScript** and **Angular**.
+- 🌱 I’m currently learning **Springboot** and **Angular**.
 - 🔄 I recently changed my professional path to coding after working as a videographer for the last 4 years.
 - 💻 I’m a **Full Stack Developer** currently interning at **Natixis** in Porto.
 - 👨‍💻 I have experience with:
